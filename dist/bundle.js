@@ -534,6 +534,8 @@ var _reactDom2 = _interopRequireDefault(_reactDom);
 
 __webpack_require__(18);
 
+__webpack_require__(19);
+
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
 _reactDom2.default.render(_react2.default.createElement(
@@ -25314,6 +25316,12 @@ exports.unstable_unsubscribe = unstable_unsubscribe;
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "img/favicon.ico";
+
+/***/ }),
+/* 19 */
+/***/ (function(module, exports) {
+
+// removed by extract-text-webpack-plugin
 
 /***/ })
 /******/ ]);
